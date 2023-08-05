@@ -2,8 +2,8 @@
 
     <xsl:template match="/">
         <teiCorpus>
-        <xsl:for-each select="record">
-            <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="5.0" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://diglib.hab.de/rules/schema/mss/v1.0/cataloguing.xsd" xml:lang="en" xml:base="+++/tei-msDesc_dobcheva.xml" xml:id="_tei-msDesc_dobcheva">
+        <xsl:for-each select="//record">
+            <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="5.0" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://diglib.hab.de/rules/schema/mss/v1.0/cataloguing.xsd">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -23,7 +23,7 @@
                 </availability>
             </publicationStmt>
             <sourceDesc>
-                <msDesc xml:lang="de" xml:id="xxx-xxx">
+                <msDesc xml:lang="de">
                     <msIdentifier>
                         <country>Österreich</country>
                         <settlement>Wien</settlement>
