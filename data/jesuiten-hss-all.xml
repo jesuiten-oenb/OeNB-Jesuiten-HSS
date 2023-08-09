@@ -8552,18 +8552,130 @@
                         <head>
                             <title>Litterae annuae provinciae Austriae Societatis Iesu a.
                                 1636</title>
-                            <origDate notBefore="0001" notAfter="0010"/>
-                            <origPlace/>
-                            <note type="facs"/>
-                            <note type="catalogue"/>
+                            <origDate notBefore="1636" notAfter="1638">1636</origDate>
+                            <origPlace>Wien (?)</origPlace>
+                            <note type="facs">http://data.onb.ac.at/dtl/9086968</note>
+                            <note type="catalogue">
+http://data.onb.ac.at/rec/AC13948970</note>
                         </head>
                         <msContents>
-                            <textLang mainLang="lat" otherLangs=""/>
+                        <summary>Jahresberichte der Häuser:</summary>
+                            <textLang mainLang="lat"/>
                             <msItem>
-                                <locus from="x" to="x"/>
-                                <note type="title"/>
+                                <locus from="2r" to="4v">2r-4v</locus>
+							<note type="title"><orgName ref="#jesuiten_org__1">Domus professa viennensis</orgName></note>
+                            </msItem>
+                            <msItem>
+                                <locus from="4v" to="6v"></locus>
+							<note type="title"><orgName ref="#jesuiten_org__2">Collegium Viennense Academicum</orgName></note>
+                            </msItem>
+                            <msItem>
+                                <locus from="6v" to="7v"></locus>
+                                <note type="title"><orgName ref="#jesuiten_org__50">Residentia Soproniensis</orgName></note>
+                            </msItem>
+                            <msItem>
+                                <locus from="7v" to="10r"></locus>
+                                <note type="title"><orgName ref="#jesuiten_org__4">Domus probationis ad S. Annam</orgName></note>
+                            </msItem>
+                            <msItem>
+                                <locus from="10r" to="14r"></locus>
+                                <note type="title"><orgName ref="#jesuiten_org__5">Collegium Graecense</orgName>
+                            </msItem>
+                            <msItem>
+                                <locus from="14r" to="14r"></locus>
+                                <note type="title"><orgname ref="#jesuiten_org__51">Missio ad illustrem comitem Christophorum Banffy</orgname></note>
+                            </msItem>
+                            <msItem>
+                                <locus from="14r" to="14v"></locus>
+                                <note type="title"><orgName ref="#jesuiten_org__7">Residentia Millestadiensis</orgName></note>
+                            </msItem>
+                            <msItem>
+                                <locus from="14v" to="17r"></locus>
+                                <note type="title"><orgName ref="#jesuiten_org__11">Collegium Tirnauiense</orgName>, <orgPlace ref="#jesuiten_org__33">Residentia Homonnensis</orgPlace>, <orgPlace ref="#jesuiten_org__46">Residentia Monostroiensis</orgPlace>, <orgPlace ref="#jesuiten_org__34">Residentia Quinqueecclesiensis</orgPlace>, <orgPlace ref="#jesuiten_org__47">Residentia Gyöngyösiensis</orgPlace>, <orgName ref="#jesuiten_org__48">Collegium Szakmarinum</orgName>; Berichte aus den Orten: <placeName ref="#jesuiten_place__60">Šurianky (Suranka)</placeName> und Galantha.</note>
+                            </msItem>
+                            <msItem>
+                                <locus from="17r" to="17v"></locus>
+                                <note type="title"><orgName ref="#jesuiten_org__10">Collegium Passauiense</orgName></note>
+                            </msItem>
+                            <msItem>
+                                <locus from="17v" to="17v"></locus>
+                                <note type="title"><orgName ref="#jesuiten_org__27">Residentia Traunkirchensis</orgName></note>
+						</msItem>
+                            <msItem>
+                                <locus from="17v" to="20r"></locus>
+                                <note type="title"><orgName ref="#jesuiten_org__8">Collegium Lincense</orgName></note>
+                            </msItem>
+                            <msItem>
+                                <locus from="20r" to="20v"></locus>
+                                <note type="title"><orgName ref="#jesuiten_org__35">Collegium Crembsense</orgName></note>
+                            </msItem>
+                            <msItem>
+                                <locus from="20v" to="21v"></locus>
+                                <note type="title"><orgName ref="#">Collegium Posoniense</orgName></note>
+                            </msItem>
+                            <msItem>
+                                <locus from="21v" to="21v"></locus>
+                                <note type="title"><orgName ref="#jesuiten_org__18">Collegium Zagrabiense</orgName></note>
+                            </msItem>
+                            <msItem>
+                                <locus from="21v" to="23r"></locus>
+                                <note type="title"><orgName ref="#jesuiten_org__36">Collegium Goritiense</orgName></note>
+                            </msItem>
+                            <msItem>
+                                <locus from="23r" to="24r"></locus>
+                                <note type="title"><orgName ref="#jesuiten_org__38">Collegium Tergestinum</orgName></note>
+                            </msItem>
+                            <msItem>
+                                <locus from="24r" to="x"></locus>
+                                <note type="title"><orgName ref="#jesuiten_org__13">Collegium Labacense</orgName></note>
+                            </msItem>
+                            <msItem>
+                                <locus from="24v" to="24v"></locus>
+                                <note type="title"><orgName ref="#jesuiten_org__14">Residentia Pletriacensis</orgName></note>
+                            </msItem>
+                            <msItem>
+                                <locus from="25r" to="25v"></locus>
+                                <note type="title"><orgName ref="#jesuiten_org__16">Collegium Clagenfurtense</orgName></note>
+                            </msItem>
+                            <msItem>
+                                <locus from="25v" to="26r"></locus>
+                                <note type="title"><orgName ref="#jesuiten_org__17">Residentia Eberndorfensis</orgName></note>
+                            </msItem>
+                            <msItem>
+                                <locus from="26r" to="26r"></locus>
+                                <note type="title"><orgName ref="#jesuiten_org__49">Missio Werthsensis</orgName></note>
+                            </msItem>
+                            <msItem>
+                                <locus from="26r" to="28r"></locus>
+                                <note type="title"><orgName ref="#jesuiten_org__37">Collegium Judenburgense</orgName> (u. a. <placeName ref="jesuiten_place__61">Fraunburg</placeName>, Stubenberg, <placeName ref="#jesuiten_place__62">Murau</placeName>, Schwarzburg, Leibniz, <placeName ref="#jesuiten_place__63">Gurk</placeName>).</note>
+                            </msItem>
+                            <msItem>
+                                <locus from="28r" to="29r"></locus>
+                                <note type="title"><orgName ref="#jesuiten_org__52">Collegium Leobiensis</orgName></note>
+                            </msItem>
+                            <msItem>
+                                <locus from="29r" to="29v"></locus>
+                                <note type="title"><orgName ref="#jesuiten_org__53">Collegium Styrense</orgName></note>
                             </msItem>
                         </msContents>
+                        <physDesc>
+					<objectDesc form="codex">
+						<supportDesc material="paper">
+							<extent>
+								<measure type="leavesCount" quantity="30" unit="folio">30</measure>
+                                 <dimensions type="leaf_current" unit="mm">
+                                        <height>295</height>
+                                        <width>206</width>
+                                    </dimensions>
+							</extent>
+                            <collation></collation>
+                            <accMat>Pergamentumschlag; Makulatur aus einem liturgischen Druck 15./16.Jhdt.</accMat>
+						</supportDesc>
+					</objectDesc>
+                    <history>
+                    <p>>Laut dem 'Ordo Collegiorum' auf dem Vorderspiegel wurde der Jahresbericht in der Zeitraum von September 1638 bis April 1639 in den folgenden Jesuitenkollegen gelesen: Wien (Domus professa, Collegium und Domus Probationis), Sopron, Krems, Linz, Passau, Steyr, Bratislava, Trnava, Győr, Humenné.</p>
+                    </history>
+				</physDesc>
                     </msDesc>
                 </sourceDesc>
             </fileDesc>
