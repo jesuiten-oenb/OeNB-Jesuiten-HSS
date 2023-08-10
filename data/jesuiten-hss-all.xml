@@ -23,6 +23,18 @@
                             International (CC BY 4.0).</licence>
                     </availability>
                 </publicationStmt>
+                <encodingDesc>
+             <classDecl>
+                <taxonomy>
+                   <category xml:id="topics">
+                      <catDesc></catDesc>
+                      <category xml:id="eulogium_def">
+                        <catDesc>Eulogium defunctorum</catDesc>
+                      </category>
+                   </category>
+                </taxonomy>
+             </classDecl>
+          </encodingDesc>
                 <sourceDesc>
                     <msDesc xml:lang="de">
                         <msIdentifier>
@@ -9448,18 +9460,121 @@ http://data.onb.ac.at/rec/AC13948970</note>
                         <head>
                             <title>Litterae annuae provinciae Austriae Societatis Iesu a.
                                 1650</title>
-                            <origDate notBefore="0001" notAfter="0010"/>
+                            <origDate notBefore="1650"/>
                             <origPlace/>
-                            <note type="facs"/>
-                            <note type="catalogue"/>
+                            <note type="facs"><ref target="http://data.onb.ac.at/dtl/9233008"></ref></note>
+                            <note type="catalogue"><ref target="http://data.onb.ac.at/rec/AC13948536"></ref></note>
                         </head>
                         <msContents>
                             <textLang mainLang="lat" otherLangs=""/>
+                            <summary>Jahresberichte der Häuser:</summary>
                             <msItem>
-                                <locus from="x" to="x"/>
-                                <note type="title"/>
+                                <locus from="1" to="4">1-4</locus>
+                                <note type="title"><orgName ref="#jesuiten_org__">Collegium Clagenfurtense</orgName></note>
+                            </msItem>
+                            <msItem>
+                                <locus from="4" to="5">4-5</locus>
+                                <note type="title"><orgName ref="#jesuiten_org__">Residentia Eberndorfensis</orgName></note>
+                            </msItem>
+                            <msItem>
+                                <locus from="6" to="10">6-10</locus>
+                                <note type="title"><orgName ref="#jesuiten_org__">Collegium Crembsense</orgName></note>
+                            </msItem>
+                            <msItem>
+                                <locus from="10" to="17">10-17</locus>
+                                <note type="title"><orgName ref="#jesuiten_org__">Collegium Fluminense</orgName></note>
+                            </msItem>
+                            <msItem>
+                                <locus from="17" to="24">17-24</locus>
+                                <note type="title"><orgName ref="#jesuiten_org__">Collegium Goritiense</orgName></note>
+                            </msItem>
+                            <msItem>
+                                <locus from="24" to="48">24-48</locus>
+                                <note type="title"><orgName ref="#jesuiten_org__">Collegium Graecense</orgName></note>
+                            </msItem>
+                            <msItem>
+                                <locus from="49" to="51">49-51</locus>
+                                <note type="title"><orgName ref="#jesuiten_org__">Collegium Jaurinense</orgName></note>
+                            </msItem>
+                            <msItem>
+                                <locus from="51" to="53">51-53</locus>
+                                <note type="title"><orgName ref="#jesuiten_org__54">Residentia Comaromiensis</orgName></note>
+                            </msItem>
+                            <msItem>
+                                <locus from="53" to="57">53-57</locus>
+                                <note type="title"><orgName ref="#jesuiten_org__">Collegium Judenburgense</orgName></note>
+                            </msItem>
+                            <msItem>
+                                <locus from="61" to="64">61-64</locus>
+                                <note type="title"><orgName ref="#jesuiten_org__">Collegium Labacense</orgName></note>
+                            </msItem>
+                            <msItem>
+                                <locus from="64" to="64">64</locus>
+                                <note type="title"><orgName ref="#jesuiten_org__">Residentia Pletriacensis</orgName></note>
+                            </msItem>
+                            <msItem>
+                                <locus from="65" to="70">65-70</locus>
+                                <note type="title"><orgName ref="#jesuiten_org__">Collegium Leobiense</orgName></note>
+                            </msItem>
+                            <msItem>
+                                <locus from="71" to="74">71-74</locus>
+                                <note type="title"><orgName ref="#jesuiten_org__">Collegium Lincense</orgName></note>
+                            </msItem>
+                            <msItem>
+                                <locus from="74" to="78">74-78</locus>
+                                <note type="title"><orgName ref="#jesuiten_org__">Collegium Passauiense</orgName></note>
+                            </msItem>
+                            <msItem>
+                                <locus from="78" to="78">78</locus>
+                                <note type="title"><orgName ref="#jesuiten_org__">Residentia Traunkirchensis</orgName></note>
+                            </msItem>
+                            <msItem>
+                                <locus from="79" to="85">79-85</locus>
+                                <note type="title"><orgName ref="#jesuiten_org__">Collegium Posoniense</orgName></note>
+                            </msItem>
+                            <msItem>
+                                <locus from="85" to="89">85-89</locus>
+                                <note type="title"><orgName ref="#jesuiten_org__">Collegium Styrense</orgName></note>
+                            </msItem>
+                            <msItem>
+                                <locus from="89" to="96">89-96</locus>
+                                <note type="title"><orgName ref="#jesuiten_org__">Collegium Tergestinum</orgName> (inkl. <quote>Testamentum spirituale P. Laurentii Chriisogoni minime huius societatis religiosi conditum Tergesti anno 1649. 14. Decembris</quote></note>
+                            </msItem>
+                            <msItem>
+                                <locus from="97" to="106">97-106</locus>
+                                <note type="title"><orgName ref="#jesuiten_org__">Collegium Tyrnaviense</orgName></note>
+                            </msItem>
+                            <msItem>
+                                <locus from="107" to="x">107-111</locus>
+                                <note type="title"><orgName ref="#jesuiten_org__">Collegium Viennense</orgName></note>
+                            </msItem>
+                            <msItem>
+                                <locus from="112" to="x">112</locus>
+                                <note type="title"><orgName ref="#jesuiten_org__">Domus S. Annae</orgName></note>
+                            </msItem>
+                            <msItem>
+                                <locus from="117" to="118">117-118</locus>
+                                <note type="title"><orgName ref="#jesuiten_org__">Residentia Schurzensis</orgName></note>
+                            </msItem>
+                            <msItem>
+                                <locus from="119" to="121">119-121</locus>
+                                <note type="title"><orgName ref="#jesuiten_org__">Collegium Ungariense</orgName></note>
+                            </msItem>
+                            <msItem>
+                                <locus from="121" to="">121-</locus>
+                                <note type="title"><orgName ref="#jesuiten_org__">Residentia Casouiensis</orgName></note>
                             </msItem>
                         </msContents>
+                         <physDesc>
+					<objectDesc form="codex">
+						<supportDesc material="paper">
+							<extent>
+								<measure type="leavesCount" quantity="" unit="folio">iv + 92 fols. + i</measure>
+							</extent>
+                             <foliation>Paginiert 1-184.</foliation>
+						</supportDesc>
+					</objectDesc>
+				</physDesc>
                     </msDesc>
                 </sourceDesc>
             </fileDesc>
@@ -9504,10 +9619,10 @@ http://data.onb.ac.at/rec/AC13948970</note>
                         <head>
                             <title>Litterae annuae provinciae Austriae Societatis Iesu a.
                                 1651</title>
-                            <origDate notBefore="0001" notAfter="0010"/>
+                            <origDate notBefore="1651"/>
                             <origPlace/>
-                            <note type="facs"/>
-                            <note type="catalogue"/>
+                            <note type="facs"><ref target="http://data.onb.ac.at/dtl/9135313"></ref></note>
+                            <note type="catalogue"><ref target="http://data.onb.ac.at/rec/AC13948537"></ref></note>
                         </head>
                         <msContents>
                             <textLang mainLang="lat" otherLangs=""/>
@@ -9516,6 +9631,18 @@ http://data.onb.ac.at/rec/AC13948970</note>
                                 <note type="title"/>
                             </msItem>
                         </msContents>
+                         <physDesc>
+					<objectDesc form="codex">
+						<supportDesc material="paper">
+							<extent>
+								<measure type="leavesCount" quantity="20" unit="folio">iii + 20 fols.</measure>
+							</extent>
+                             <foliation>Paginiert 1-30.</foliation>
+						</supportDesc>
+					</objectDesc>
+				</physDesc>
+                        <history>
+					</history>
                     </msDesc>
                 </sourceDesc>
             </fileDesc>
@@ -9558,20 +9685,35 @@ http://data.onb.ac.at/rec/AC13948970</note>
                             <idno>Cod. 12049</idno>
                         </msIdentifier>
                         <head>
-                            <title>Litterae annuae provinciae Austriae Societatis Iesu a.
-                                1652</title>
-                            <origDate notBefore="0001" notAfter="0010"/>
-                            <origPlace/>
-                            <note type="facs"/>
-                            <note type="catalogue"/>
+                            <title>Litterae annuae provinciae Austriae Societatis Iesu a. 1652</title>
+                            <origDate notBefore="1652"/>
+                            <origPlace></origPlace>
+                            <note type="facs"><ref target="http://data.onb.ac.at/dtl/9135570"></ref></note>
+                            <note type="catalogue"><ref target="http://data.onb.ac.at/rec/AC13948199"></ref></note>
                         </head>
                         <msContents>
-                            <textLang mainLang="lat" otherLangs=""/>
+                            <textLang mainLang="lat"/>
                             <msItem>
-                                <locus from="x" to="x"/>
-                                <note type="title"/>
+                                <locus from="1" to="--"></locus>
+                                <note type="title"><term ref="#jesuiten_topic__1">Eulogia defunctorum:</term> 
+                                <persName>P. Matthias Wolfgangi Austriacus Crembsensis</persName>, <persName>P. Joannes Orso</persName> (Patria Tergestinus), <persName>Franciscus Baronus Roboreto Tyroli</persName> 
+                                </note>
                             </msItem>
+                            
                         </msContents>
+                        <physDesc>
+					<objectDesc form="codex">
+						<supportDesc material="paper">
+							<extent>
+								<measure type="leavesCount" quantity="54" unit="folio">iii + 12 fols. + ii</measure>
+							</extent>
+                             <foliation>Paginiert 1-25.</foliation>
+						</supportDesc>
+					</objectDesc>
+				</physDesc>
+                        <history>
+						<summary>Laut dem 'Ordo Collegiorum' auf dem Vorderspiegel wurde der Jahresbericht in den Orten: <placeName ref="#jesuiten_place__2">Graz</placeName>, <placeName ref="#jesuiten_place__30">Varazdin</placeName>, <placeName ref="#jesuiten_place__10">Zagreb</placeName>, <placeName ref="#jesuiten_place__9">Ljubljana</placeName>, <placeName ref="#jesuiten_place__29">Rjeka</placeName>, <placeName ref="#jesuiten_place__28">Triest</placeName>, <placeName ref="#jesuiten_place__27">Gorizia</placeName>, <placeName ref="#jesuiten_place__26">Klagenfurt</placeName>, <placeName ref="jesuiten_place__25">Judenburg</placeName> und <placeName ref="#jesuiten_place__24">Leoben</placeName>.</summary>
+					</history>
                     </msDesc>
                 </sourceDesc>
             </fileDesc>
