@@ -10,11 +10,11 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>../jesuites/1526088/cod_12031.xml</String>
+                                    <String>data/jesuiten_mss.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>cod_12031</String>
+                                        <String>jesuiten_mss</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -40,11 +40,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>data/jesuiten_mss.xml.xml</String>
+                                    <String>../jesuites/1526088/cod_12031.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>jesuiten_mss</String>
+                                        <String>cod_12031</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -188,10 +188,10 @@
                                     <Boolean>false</Boolean>
                                 </field>
                                 <field name="outputFile">
-                                    <File>jesuiten-hss-all.xml</File>
+                                    <File>jesuiten-tei-corpus.xml</File>
                                 </field>
                                 <field name="outputResource">
-                                    <String>jesuiten-hss-all.xml</String>
+                                    <String>jesuiten-tei-corpus.xml</String>
                                 </field>
                                 <field name="openOtherLocationInBrowser">
                                     <Boolean>false</Boolean>
