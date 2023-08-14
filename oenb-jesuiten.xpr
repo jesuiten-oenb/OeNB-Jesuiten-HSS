@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="21.0">
+    <meta>
+        <filters directoryPatterns="" filePatterns="\Qoenb-jesuiten.xpr\E" positiveFilePatterns="" showHiddenFiles="false"/>
+        <options>
+            <serialized version="21.0" xml:space="preserve">
+                <serializableOrderedMap>
+                    <entry>
+                        <String>code.insight.xml.cursor.forced</String>
+                        <Boolean>true</Boolean>
+                    </entry>
+                    <entry>
+                        <String>key.editor.cc.option.pane.group</String>
+                        <Boolean>true</Boolean>
+                    </entry>
+                </serializableOrderedMap>
+            </serialized>
+        </options>
+    </meta>
+    <projectTree name="oenb-jesuiten.xpr">
+        <folder path="."/>
+    </projectTree>
+</project>
